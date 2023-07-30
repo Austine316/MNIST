@@ -1,6 +1,11 @@
 # MNIST Handwritten Digit Classifier Web App
 
-This is a web application that uses a trained PyTorch model to classify uploaded images of handwritten digits.
+This web application uses a trained PyTorch model to classify uploaded images of handwritten digits.
+
+![web](https://github.com/Austine316/MNIST/assets/77448406/6356fe15-8bc2-412b-a0c4-dd595258f3a2)
+
+
+
 
 ## Installation
 1. Install Python 3.6 or later.
