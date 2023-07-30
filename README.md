@@ -13,6 +13,7 @@ This is a web application that uses a trained PyTorch model to classify uploaded
 3. (Optional) Create a virtual environment.
 
 ```python3 -m venv env```
+
 ```source env/bin/activate```
 
 4. Install the required packages.
