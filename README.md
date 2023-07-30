@@ -34,4 +34,4 @@ Then, open a web browser and go to http://localhost:5000.
 
 ## Using the App
 
-To use the app, click the "Choose File" button and select an image of a handwritten digit from your computer. Then, click "Classify" to submit the image. The web app will display the model's classification of the digit, along with the associated probabilities.
+To use the app, click the "Choose File" button and select an image of a handwritten digit from your computer (test images are in the image folder in this repo). Then, click "Classify" to submit the image. The web app will display the model's classification of the digit, along with the associated probabilities.
