@@ -1,6 +1,6 @@
-# MNIST Handwritten Digit Classifier Web App
+# MNIST Handwritten Digit Classifier Web App Tutorial
 
-This web application uses a trained PyTorch model to classify uploaded images of handwritten digits.
+This web application uses a trained PyTorch model to classify uploaded images of handwritten digits. This simple deep learning project is part of the Hands-on Online Training on Data Science organised by Knowledge and Skills Forum https://www.linkedin.com/company/knowledge-forum/. 
 
 ![web](https://github.com/Austine316/MNIST/assets/77448406/6356fe15-8bc2-412b-a0c4-dd595258f3a2)
 
