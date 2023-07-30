@@ -13,7 +13,7 @@ This web application uses a trained PyTorch model to classify uploaded images of
 2. Clone this repository to your local machine.
 
 
-```git clone https://github.com/<your-github-username>/handwritten-digit-classifier.git```
+```git clone https://github.com/Austine316/MNIST.git```
 
 3. (Optional) Create a virtual environment.
 
