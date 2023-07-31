@@ -11,7 +11,7 @@ from model import Net
 app = Flask(__name__)
 
 
-PATH = '/home/user/Documents/Hand_Written_Model_Testing/model.pt'
+PATH = 'model.pt'
 
 transform = transforms.Compose([transforms.ToTensor(),
                                 transforms.Resize((28, 28)),
