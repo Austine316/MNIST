@@ -27,7 +27,7 @@ To run the app, navigate to the repository directory and type the following comm
 
 ```python app.py```
 
-Then, open a web browser and go to http://localhost:5000.
+Then, open a web browser and go to http://localhost:5000
 
 
 ## Using the App
